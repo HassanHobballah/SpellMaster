@@ -5,7 +5,7 @@
 
 void game_mode_screen(int *userChoice) {
     printf("-----------\033[0;32mGAME MODES:\033[0m-----------\n\n");
-    printf("     1) Simulation\n");
+    printf("     1) Single-Player\n");
     printf("     2) Two-Player\n\n"); 
     printf("---------------------------------\n");
     printf("Enter your choice (1-2): ");
